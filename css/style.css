@@ -274,6 +274,12 @@ body {
 }
 
 .banner .banner-container {
+  background-image: -webkit-linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.2),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(../img/banner-1.jpg);
   background-image: linear-gradient(
       0deg,
       rgba(255, 255, 255, 0.2),
